@@ -26,6 +26,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 ## Output :
+![image](https://github.com/user-attachments/assets/9152bf0a-2a0c-465b-8440-5aeb63125502)
 
 ## Result :
+By using python programming we find the Single server with infinite capacity and calculated.
 
